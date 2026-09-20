@@ -40,12 +40,15 @@ not just a landing page to ship.
 
 <table>
   <tr>
-    <th>🛠️ Build</th>
-    <th>🔗 Connect</th>
-    <th>✍️ Communicate</th>
+    <th width="33%">🛠️ Build products and systems</th>
+    <th width="33%">🔗 Connect, automate, operate</th>
+    <th width="33%">✍️ Communicate knowledge</th>
   </tr>
   <tr>
     <td valign="top">
+      <i>Turn a defined problem into a useful application, with the
+      foundations to support it.</i>
+      <br><br>
       Custom software<br>
       Web applications<br>
       Mobile applications<br>
@@ -53,11 +56,17 @@ not just a landing page to ship.
       SaaS products
     </td>
     <td valign="top">
+      <i>Bring information and workflows together. Make the moving parts
+      easier to understand.</i>
+      <br><br>
       AI, LLM and RAG systems<br>
       Automation and integration<br>
       Cloud and DevOps
     </td>
     <td valign="top">
+      <i>Give complex work a clear explanation through technical,
+      educational, and academic support.</i>
+      <br><br>
       Technical writing<br>
       Educational writing<br>
       Academic support
@@ -76,7 +85,7 @@ not just a landing page to ship.
 
 <table>
   <tr>
-    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/dairify-640.webp" width="120" alt="Dairify"></td>
+    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/dairify-1024.webp" width="120" alt="Dairify"></td>
     <td>
       <b><a href="https://bytecraftre.com/products/dairify">Dairify</a></b> · In active development<br>
       Connects milk collection, delivery, and farmer settlement into one
@@ -84,7 +93,7 @@ not just a landing page to ship.
     </td>
   </tr>
   <tr>
-    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/billing-640.webp" width="120" alt="Multi-store Billing"></td>
+    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/billing-1024.webp" width="120" alt="Multi-store Billing"></td>
     <td>
       <b><a href="https://bytecraftre.com/products/multi-store-billing">Multi-store Billing</a></b><br>
       A billing system spanning web and mobile, with a confirmed client and
@@ -92,7 +101,7 @@ not just a landing page to ship.
     </td>
   </tr>
   <tr>
-    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/carpooling-640.webp" width="120" alt="Carpooling Platform"></td>
+    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/carpooling-1024.webp" width="120" alt="Carpooling Platform"></td>
     <td>
       <b><a href="https://bytecraftre.com/products/carpooling">Carpooling Platform</a></b><br>
       A web and mobile product built for the shared mobility domain.
@@ -106,7 +115,7 @@ not just a landing page to ship.
 
 <table>
   <tr>
-    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/luggage-640.webp" width="120" alt="Luggage Management"></td>
+    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/luggage-1024.webp" width="120" alt="Luggage Management"></td>
     <td>
       <b><a href="https://bytecraftre.com/work/luggage-management">Luggage Management</a></b><br>
       A Flutter mobile application and web administration interface for
@@ -114,7 +123,7 @@ not just a landing page to ship.
     </td>
   </tr>
   <tr>
-    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/events-640.webp" width="120" alt="Event Booking"></td>
+    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/events-1024.webp" width="120" alt="Event Booking"></td>
     <td>
       <b><a href="https://bytecraftre.com/work/event-booking">Event Booking</a></b><br>
       A web and mobile client project in the event booking domain.
@@ -140,10 +149,9 @@ connecting business processes and operational records (ERP), making
 system information understandable (solar monitoring), and connecting
 retrieval, source material, and AI-assisted answers (RAG).
 
-> [!IMPORTANT]
-> This is team domain experience, not a claim of company-owned delivery
-> in these industries. More at
-> [bytecraftre.com/industries](https://bytecraftre.com/industries).
+<sub>This is team domain experience, not a claim of company-owned
+delivery in these industries. More at
+<a href="https://bytecraftre.com/industries">bytecraftre.com/industries</a>.</sub>
 
 <br>
 
