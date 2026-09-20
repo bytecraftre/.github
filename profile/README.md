@@ -12,6 +12,18 @@
   <a href="mailto:contact@bytecraftre.com">
     <img src="https://img.shields.io/badge/Email-242722?style=flat&logo=minutemailer&logoColor=D5ED47" alt="Email" />
   </a>
+  <a href="https://www.upwork.com/agencies/bytecraftre">
+    <img src="https://img.shields.io/badge/Upwork-242722?style=flat&logo=upwork&logoColor=D5ED47" alt="Upwork" />
+  </a>
+  <a href="https://facebook.com/bytecraftre">
+    <img src="https://img.shields.io/badge/Facebook-242722?style=flat&logo=facebook&logoColor=D5ED47" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/bytecraftre">
+    <img src="https://img.shields.io/badge/Instagram-242722?style=flat&logo=instagram&logoColor=D5ED47" alt="Instagram" />
+  </a>
+  <a href="https://x.com/bytecraftre">
+    <img src="https://img.shields.io/badge/X-242722?style=flat&logo=x&logoColor=D5ED47" alt="X" />
+  </a>
 
   <br><br>
 
