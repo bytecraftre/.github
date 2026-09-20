@@ -85,7 +85,7 @@ not just a landing page to ship.
 
 <table>
   <tr>
-    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/dairify-1024.webp" width="120" alt="Dairify"></td>
+    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/.github/main/profile/assets/products/dairify-1024.webp" width="120" alt="Dairify"></td>
     <td>
       <b><a href="https://bytecraftre.com/products/dairify">Dairify</a></b> · In active development<br>
       Connects milk collection, delivery, and farmer settlement into one
@@ -93,7 +93,7 @@ not just a landing page to ship.
     </td>
   </tr>
   <tr>
-    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/billing-1024.webp" width="120" alt="Multi-store Billing"></td>
+    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/.github/main/profile/assets/products/billing-1024.webp" width="120" alt="Multi-store Billing"></td>
     <td>
       <b><a href="https://bytecraftre.com/products/multi-store-billing">Multi-store Billing</a></b><br>
       A billing system spanning web and mobile, with a confirmed client and
@@ -101,7 +101,7 @@ not just a landing page to ship.
     </td>
   </tr>
   <tr>
-    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/carpooling-1024.webp" width="120" alt="Carpooling Platform"></td>
+    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/.github/main/profile/assets/products/carpooling-1024.webp" width="120" alt="Carpooling Platform"></td>
     <td>
       <b><a href="https://bytecraftre.com/products/carpooling">Carpooling Platform</a></b><br>
       A web and mobile product built for the shared mobility domain.
@@ -115,7 +115,7 @@ not just a landing page to ship.
 
 <table>
   <tr>
-    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/luggage-1024.webp" width="120" alt="Luggage Management"></td>
+    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/.github/main/profile/assets/products/luggage-1024.webp" width="120" alt="Luggage Management"></td>
     <td>
       <b><a href="https://bytecraftre.com/work/luggage-management">Luggage Management</a></b><br>
       A Flutter mobile application and web administration interface for
@@ -123,7 +123,7 @@ not just a landing page to ship.
     </td>
   </tr>
   <tr>
-    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/events-1024.webp" width="120" alt="Event Booking"></td>
+    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/.github/main/profile/assets/products/events-1024.webp" width="120" alt="Event Booking"></td>
     <td>
       <b><a href="https://bytecraftre.com/work/event-booking">Event Booking</a></b><br>
       A web and mobile client project in the event booking domain.
