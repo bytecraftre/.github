@@ -26,24 +26,41 @@ connect them.
 We work with founders and businesses that have complex operational work,
 not just a landing page to ship.
 
-## Proof, not promises
+## Our products
 
-**[Dairify](https://bytecraftre.com/products/dairify)**: Byte Craftre
-owned, in active development. Connects milk collection, delivery, and
-farmer settlement into one accountable system.
+Byte Craftre owns and operates these products. Each page states its
+confirmed scope and current stage, nothing more.
 
-**Multi-store Billing**: Byte Craftre owned, verified product. Confirmed
-client: Milli Shoes.
+**[Dairify](https://bytecraftre.com/products/dairify)**. In active
+development. Connects milk collection, delivery, and farmer settlement
+into one accountable system built around an append-only ledger.
 
-**Carpooling Platform**: Byte Craftre owned, verified product in the
-shared mobility domain.
+**[Multi-store Billing](https://bytecraftre.com/products/multi-store-billing)**.
+A billing system spanning web and mobile, with a confirmed client and user
+at Milli Shoes.
 
-**Client work**: confirmed projects including a Flutter luggage
-management platform and an event booking system. Full list with verified
-scope at [bytecraftre.com/work](https://bytecraftre.com/work).
+**[Carpooling Platform](https://bytecraftre.com/products/carpooling)**.
+A web and mobile product built for the shared mobility domain.
 
-Every product and project page states its confirmed scope and current
-stage. No inflated claims, no invented metrics.
+## Client work
+
+We have developed a Flutter luggage management platform and a web
+administration interface for booking, rider, and operational workflows,
+along with a web and mobile event booking system for another client.
+
+See the full, verified list at
+[bytecraftre.com/work](https://bytecraftre.com/work).
+
+## Team domain experience
+
+Beyond our own products and client work, our team brings experience
+across ERP systems (business processes and operational records), solar
+monitoring (making system information understandable), and RAG systems
+(connecting retrieval, source material, and AI-assisted answers).
+
+This is team domain experience, not a claim of company-owned delivery in
+these industries. More at
+[bytecraftre.com/industries](https://bytecraftre.com/industries).
 
 ## What we do
 
