@@ -6,33 +6,39 @@
   <a href="https://bytecraftre.com">
     <img src="https://img.shields.io/badge/Website-242722?style=flat&logo=firefoxbrowser&logoColor=D5ED47" alt="Website" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/company/bytecraftre">
     <img src="https://img.shields.io/badge/LinkedIn-242722?style=flat&logo=linkedin&logoColor=D5ED47" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:contact@bytecraftre.com">
     <img src="https://img.shields.io/badge/Email-242722?style=flat&logo=minutemailer&logoColor=D5ED47" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://www.upwork.com/agencies/bytecraftre">
     <img src="https://img.shields.io/badge/Upwork-242722?style=flat&logo=upwork&logoColor=D5ED47" alt="Upwork" />
   </a>
+  &nbsp;
   <a href="https://facebook.com/bytecraftre">
     <img src="https://img.shields.io/badge/Facebook-242722?style=flat&logo=facebook&logoColor=D5ED47" alt="Facebook" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/bytecraftre">
     <img src="https://img.shields.io/badge/Instagram-242722?style=flat&logo=instagram&logoColor=D5ED47" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="https://x.com/bytecraftre">
     <img src="https://img.shields.io/badge/X-242722?style=flat&logo=x&logoColor=D5ED47" alt="X" />
   </a>
 
   <br><br>
 
-  <a href="#who-we-are">Who we are</a> &nbsp;&bull;&nbsp;
-  <a href="#what-we-do">What we do</a> &nbsp;&bull;&nbsp;
-  <a href="#our-products">Our products</a> &nbsp;&bull;&nbsp;
-  <a href="#client-work">Client work</a> &nbsp;&bull;&nbsp;
-  <a href="#team-domain-experience">Team domains</a> &nbsp;&bull;&nbsp;
-  <a href="#work-with-us">Work with us</a>
+  <a href="#who-we-are"><img src="https://img.shields.io/badge/Who_we_are-F4F3EB?style=flat&color=F4F3EB&labelColor=F4F3EB" alt="Who we are" height="26" /></a>
+  <a href="#what-we-do"><img src="https://img.shields.io/badge/What_we_do-F4F3EB?style=flat&color=F4F3EB&labelColor=F4F3EB" alt="What we do" height="26" /></a>
+  <a href="#our-products"><img src="https://img.shields.io/badge/Our_products-F4F3EB?style=flat&color=F4F3EB&labelColor=F4F3EB" alt="Our products" height="26" /></a>
+  <a href="#client-work"><img src="https://img.shields.io/badge/Client_work-F4F3EB?style=flat&color=F4F3EB&labelColor=F4F3EB" alt="Client work" height="26" /></a>
+  <a href="#team-domain-experience"><img src="https://img.shields.io/badge/Team_domains-F4F3EB?style=flat&color=F4F3EB&labelColor=F4F3EB" alt="Team domains" height="26" /></a>
+  <a href="#work-with-us"><img src="https://img.shields.io/badge/Work_with_us-D5ED47?style=flat&color=D5ED47&labelColor=D5ED47" alt="Work with us" height="26" /></a>
 </div>
 
 <br>
