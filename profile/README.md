@@ -170,4 +170,4 @@ our [approach](https://bytecraftre.com/approach).
 > Bring the problem, the difficult workflow, or the system that needs a
 > fresh start. We start with the problem, not a template.
 >
-> **[Start a project →](mailto:contact@bytecraftre.com)**
+> **[Start a project →](https://bytecraftre.com/contact)**
