@@ -3,7 +3,15 @@
 
   <br><br>
 
-  [Website](https://bytecraftre.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/company/bytecraftre) &nbsp;·&nbsp; [Contact](mailto:contact@bytecraftre.com)
+  <a href="https://bytecraftre.com">
+    <img src="https://img.shields.io/badge/Website-242722?style=flat&logo=firefoxbrowser&logoColor=D5ED47" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/company/bytecraftre">
+    <img src="https://img.shields.io/badge/LinkedIn-242722?style=flat&logo=linkedin&logoColor=D5ED47" alt="LinkedIn" />
+  </a>
+  <a href="mailto:contact@bytecraftre.com">
+    <img src="https://img.shields.io/badge/Email-242722?style=flat&logo=minutemailer&logoColor=D5ED47" alt="Email" />
+  </a>
 </div>
 
 <br>
