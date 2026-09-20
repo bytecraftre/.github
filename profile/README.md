@@ -12,65 +12,140 @@
   <a href="mailto:contact@bytecraftre.com">
     <img src="https://img.shields.io/badge/Email-242722?style=flat&logo=minutemailer&logoColor=D5ED47" alt="Email" />
   </a>
+
+  <br><br>
+
+  <a href="#who-we-are">Who we are</a> &nbsp;&bull;&nbsp;
+  <a href="#what-we-do">What we do</a> &nbsp;&bull;&nbsp;
+  <a href="#our-products">Our products</a> &nbsp;&bull;&nbsp;
+  <a href="#client-work">Client work</a> &nbsp;&bull;&nbsp;
+  <a href="#team-domain-experience">Team domains</a> &nbsp;&bull;&nbsp;
+  <a href="#work-with-us">Work with us</a>
 </div>
 
 <br>
 
 ## Who we are
 
-Byte Craftre is a software engineering and product studio. We take a
-defined problem and turn it into a working application, with the
-foundations to support it: web, mobile, and the backend systems that
-connect them.
+Byte Craftre is a software engineering and product studio. We take a defined
+problem and turn it into a working application, with the foundations to
+support it: web, mobile, and the backend systems that connect them.
 
 We work with founders and businesses that have complex operational work,
 not just a landing page to ship.
 
+<br>
+
+## What we do
+
+<table>
+  <tr>
+    <th>🛠️ Build</th>
+    <th>🔗 Connect</th>
+    <th>✍️ Communicate</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      Custom software<br>
+      Web applications<br>
+      Mobile applications<br>
+      Backend systems and APIs<br>
+      SaaS products
+    </td>
+    <td valign="top">
+      AI, LLM and RAG systems<br>
+      Automation and integration<br>
+      Cloud and DevOps
+    </td>
+    <td valign="top">
+      Technical writing<br>
+      Educational writing<br>
+      Academic support
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ## Our products
 
-Byte Craftre owns and operates these products. Each page states its
-confirmed scope and current stage, nothing more.
+> [!NOTE]
+> Byte Craftre owns and operates these products. Each product page states
+> its confirmed scope and current stage, nothing more. Images below are
+> illustrative concept visuals, not screenshots of a shipped product.
 
-**[Dairify](https://bytecraftre.com/products/dairify)**. In active
-development. Connects milk collection, delivery, and farmer settlement
-into one accountable system built around an append-only ledger.
+<table>
+  <tr>
+    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/dairify-640.webp" width="120" alt="Dairify"></td>
+    <td>
+      <b><a href="https://bytecraftre.com/products/dairify">Dairify</a></b> · In active development<br>
+      Connects milk collection, delivery, and farmer settlement into one
+      accountable system built around an append-only ledger.
+    </td>
+  </tr>
+  <tr>
+    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/billing-640.webp" width="120" alt="Multi-store Billing"></td>
+    <td>
+      <b><a href="https://bytecraftre.com/products/multi-store-billing">Multi-store Billing</a></b><br>
+      A billing system spanning web and mobile, with a confirmed client and
+      user at Milli Shoes.
+    </td>
+  </tr>
+  <tr>
+    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/carpooling-640.webp" width="120" alt="Carpooling Platform"></td>
+    <td>
+      <b><a href="https://bytecraftre.com/products/carpooling">Carpooling Platform</a></b><br>
+      A web and mobile product built for the shared mobility domain.
+    </td>
+  </tr>
+</table>
 
-**[Multi-store Billing](https://bytecraftre.com/products/multi-store-billing)**.
-A billing system spanning web and mobile, with a confirmed client and user
-at Milli Shoes.
-
-**[Carpooling Platform](https://bytecraftre.com/products/carpooling)**.
-A web and mobile product built for the shared mobility domain.
+<br>
 
 ## Client work
 
-We have developed a Flutter luggage management platform and a web
-administration interface for booking, rider, and operational workflows,
-along with a web and mobile event booking system for another client.
+<table>
+  <tr>
+    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/luggage-640.webp" width="120" alt="Luggage Management"></td>
+    <td>
+      <b><a href="https://bytecraftre.com/work/luggage-management">Luggage Management</a></b><br>
+      A Flutter mobile application and web administration interface for
+      luggage, booking, rider, and operational workflows.
+    </td>
+  </tr>
+  <tr>
+    <td width="140"><img src="https://raw.githubusercontent.com/bytecraftre/bytecraftre-website/main/public/images/events-640.webp" width="120" alt="Event Booking"></td>
+    <td>
+      <b><a href="https://bytecraftre.com/work/event-booking">Event Booking</a></b><br>
+      A web and mobile client project in the event booking domain.
+    </td>
+  </tr>
+</table>
 
 See the full, verified list at
 [bytecraftre.com/work](https://bytecraftre.com/work).
 
+<br>
+
 ## Team domain experience
 
+<p>
+  <img src="https://img.shields.io/badge/ERP_systems-BFC5B6?style=flat&logoColor=242722&color=BFC5B6&labelColor=242722" alt="ERP systems" />
+  <img src="https://img.shields.io/badge/Solar_monitoring-BFC5B6?style=flat&color=BFC5B6&labelColor=242722" alt="Solar monitoring" />
+  <img src="https://img.shields.io/badge/RAG_systems-BFC5B6?style=flat&color=BFC5B6&labelColor=242722" alt="RAG systems" />
+</p>
+
 Beyond our own products and client work, our team brings experience
-across ERP systems (business processes and operational records), solar
-monitoring (making system information understandable), and RAG systems
-(connecting retrieval, source material, and AI-assisted answers).
+connecting business processes and operational records (ERP), making
+system information understandable (solar monitoring), and connecting
+retrieval, source material, and AI-assisted answers (RAG).
 
-This is team domain experience, not a claim of company-owned delivery in
-these industries. More at
-[bytecraftre.com/industries](https://bytecraftre.com/industries).
+> [!IMPORTANT]
+> This is team domain experience, not a claim of company-owned delivery
+> in these industries. More at
+> [bytecraftre.com/industries](https://bytecraftre.com/industries).
 
-## What we do
-
-| Build | Connect | Communicate |
-|---|---|---|
-| Custom software | AI, LLM and RAG systems | Technical writing |
-| Web applications | Automation and integration | Educational writing |
-| Mobile applications | Cloud and DevOps | Academic support |
-| Backend systems and APIs | | |
-| SaaS products | | |
+<br>
 
 ## How we think
 
@@ -79,9 +154,12 @@ three layers deliberately: the interface people act on, the logic that
 governs what is allowed, and the data that outlives both. Read more about
 our [approach](https://bytecraftre.com/approach).
 
+<br>
+
 ## Work with us
 
-Bring the problem, the difficult workflow, or the system that needs a
-fresh start. We start with the problem, not a template.
-
-**[Start a project →](mailto:contact@bytecraftre.com)**
+> [!TIP]
+> Bring the problem, the difficult workflow, or the system that needs a
+> fresh start. We start with the problem, not a template.
+>
+> **[Start a project →](mailto:contact@bytecraftre.com)**
