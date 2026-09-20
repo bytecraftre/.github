@@ -4,17 +4,17 @@
   <br><br>
 
   <a href="https://bytecraftre.com"><img src="https://img.shields.io/badge/Website-242722?style=flat&logo=firefoxbrowser&logoColor=D5ED47" alt="Website" /></a>
-  &nbsp;
+  &thinsp;
   <a href="https://linkedin.com/company/bytecraftre"><img src="https://img.shields.io/badge/LinkedIn-242722?style=flat&logo=linkedin&logoColor=D5ED47" alt="LinkedIn" /></a>
-  &nbsp;
+  &thinsp;
   <a href="mailto:contact@bytecraftre.com"><img src="https://img.shields.io/badge/Email-242722?style=flat&logo=minutemailer&logoColor=D5ED47" alt="Email" /></a>
-  &nbsp;
+  &thinsp;
   <a href="https://www.upwork.com/agencies/bytecraftre"><img src="https://img.shields.io/badge/Upwork-242722?style=flat&logo=upwork&logoColor=D5ED47" alt="Upwork" /></a>
-  &nbsp;
+  &thinsp;
   <a href="https://facebook.com/bytecraftre"><img src="https://img.shields.io/badge/Facebook-242722?style=flat&logo=facebook&logoColor=D5ED47" alt="Facebook" /></a>
-  &nbsp;
+  &thinsp;
   <a href="https://instagram.com/bytecraftre"><img src="https://img.shields.io/badge/Instagram-242722?style=flat&logo=instagram&logoColor=D5ED47" alt="Instagram" /></a>
-  &nbsp;
+  &thinsp;
   <a href="https://x.com/bytecraftre"><img src="https://img.shields.io/badge/X-242722?style=flat&logo=x&logoColor=D5ED47" alt="X" /></a>
 
   <br><br>
